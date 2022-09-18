@@ -1,0 +1,10 @@
+.header {
+    background-color: gold;
+    font: bold; color: black;
+    text-align: center;
+}
+.button {
+    background-color: rgb(255, 106, 0);
+    color: rgb(12, 12, 204);
+
+}
